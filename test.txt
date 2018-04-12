@@ -4,3 +4,4 @@ iOS X
 iPad Air
 iPod
 iOS 6
+iOS 5
