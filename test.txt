@@ -5,4 +5,3 @@ iPad Air
 iPod
 iOS 4
 iOS 6
-iOS 5
