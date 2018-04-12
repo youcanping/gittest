@@ -3,5 +3,6 @@ iOS 8
 iOS X
 iPad Air
 iPod
+iOS 5
 iOS 4
 iOS 3
