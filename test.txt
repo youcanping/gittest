@@ -11,3 +11,4 @@ iOS 5
 iOS 6
 iOS 7
 iOS 8
+iOS 10
