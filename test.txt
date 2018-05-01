@@ -6,3 +6,5 @@ iPod
 iOS 4
 iOS 5
 iOS 6
+iOS 7
+iOS 8
